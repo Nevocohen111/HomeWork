@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dean2/AndroidStudioProjects/HackerUApp/app/src/main/res/layout/activity_name.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/dean2/AndroidStudioProjects/HackerUApp/app/src/main/res/layout/activity_registration.xml" value="0.33" />
+        <entry key="..\:/Users/dean2/AndroidStudioProjects/HackerUApp/app/src/main/res/layout/fragment_login.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/dean2/AndroidStudioProjects/HackerUApp/app/src/main/res/layout/fragment_sign_up.xml" value="0.3795289855072464" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

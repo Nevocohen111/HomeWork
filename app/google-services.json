@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403283696901",
+    "project_id": "hackeru-app",
+    "storage_bucket": "hackeru-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403283696901:android:b334caacf052f17cd0eb6c",
+        "android_client_info": {
+          "package_name": "com.example.hackeruapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403283696901-i644reeo9emkbnlmg39f29mfeh0ava8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMKZwgjqfZrE2eIjjToHO8qsT6FjsYqVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403283696901-i644reeo9emkbnlmg39f29mfeh0ava8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
